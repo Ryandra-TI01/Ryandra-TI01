@@ -67,9 +67,10 @@ A capstone project built with **Laravel 12**, **Livewire**, and **Filament**, fo
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryandra-TI01&show_icons=true&theme=radical&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Ryandra-TI01&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryandra-TI01&layout=compact&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Ryandra-TI01&theme=radical" height="150"/>
 </p>
+
 
 ---
 
