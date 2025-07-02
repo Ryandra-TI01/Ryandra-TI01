@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Ryandra Athaya</h1>
-<h3 align="center">Laravel Developer | Fullstack Web & Mobile</h3>
+<h3 align="center">Laravel Developer | Fullstack Web & Mobile</h3>https://github.com/Ryandra-TI01/Ryandra-TI01/blob/main/README.md
 
 
 ---
@@ -79,6 +79,18 @@ A capstone project built with **Laravel 12**, **Livewire**, and **Filament**, fo
 - ✉️ Email: [ryandra.athaya1705@gmail.com](mailto:ryandra.athaya1705@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ryandra-athaya-saleh-234161293](https://www.linkedin.com/in/ryandra-athaya-saleh-234161293)  
 - 💻 GitHub: [github.com/Ryandra-TI01](https://github.com/Ryandra-TI01)
+
+---
+
+### 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryandra-TI01/Ryandra-TI01/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryandra-TI01/Ryandra-TI01/output/github-snake.svg">
+    <img src="https://raw.githubusercontent.com/Ryandra-TI01/Ryandra-TI01/output/github-snake.svg" alt="GitHub Snake" />
+  </picture>
+</div>
 
 ---
 
