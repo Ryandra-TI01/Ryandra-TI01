@@ -1,4 +1,4 @@
-![Banner](https://media.licdn.com/dms/image/v2/D5616AQH1474yEmw_2A/profile-displaybackgroundimage-shrink_350_1400/B56Ze2BeAQHQAY-/0/1751105528968?e=1756944000&v=beta&t=lJU2OAxqkEjUdDJx-ZX9ZYYoT6u17lbLIzOHHN52yFE)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQH1474yEmw_2A/profile-displaybackgroundimage-shrink_350_1400/B56Ze2BeAQHQAY-/0/1751105528968?e=1761177600&v=beta&t=i83cicDuMPRYr9wUn4ReIGgExytvuR71hwD1T1YKFaM)
 
 <h1 align="center">Hi there 👋 I'm Ryandra Athaya</h1>
 <h3 align="center">Laravel Developer | Fullstack Web & Mobile</h3>https://github.com/Ryandra-TI01/Ryandra-TI01/blob/main/README.md
