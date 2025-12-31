@@ -1,24 +1,24 @@
-<h1 align="center">Hi there 👋 I'm Ryandra Athaya</h1>
+<h1 align="center">Hi there I'm Ryandra Athaya</h1>
 <h3 align="center">Laravel Developer | Fullstack Web & Mobile</h3>
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I'm an Informatics Engineering student with a strong passion for web and mobile development.  
 Currently looking for internship opportunities to grow and contribute to real-world projects.
 
-- 🔧 Main stack: **Laravel**, **Livewire**, **React Native**, **PostgreSQL**
-- 👨‍💻 Love turning ideas into practical products with clean UI and structured backend
-- 🤝 Team player with experience as Project Manager, Scrum Master, and Developer
-- 🌱 Always learning and open to new technologies
+-  Main stack: **Laravel**, **Livewire**, **React Native**, **PostgreSQL**
+-  Love turning ideas into practical products with clean UI and structured backend
+-  Team player with experience as Project Manager, Scrum Master, and Developer
+-  Always learning and open to new technologies
 
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
-#### 💻 Web
+#### Web
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=flat&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
@@ -29,16 +29,16 @@ Currently looking for internship opportunities to grow and contribute to real-wo
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-#### 📱 Mobile
+#### Mobile
 ![React Native](https://img.shields.io/badge/-ReactNative-20232A?logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)
 
-#### 🗄️ Database
+#### Database
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-#### 🔧 Tools
+#### Tools
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
@@ -47,22 +47,22 @@ Currently looking for internship opportunities to grow and contribute to real-wo
 
 ---
 
-### 💼 Highlighted Project
+### Highlighted Project
 
-#### 🩺 **HealthTrack – Chronic Health Monitoring App**
+#### **HealthTrack – Chronic Health Monitoring App**
 A capstone project built with **Laravel 12**, **Livewire**, and **Filament**, focused on long-term health monitoring.
 
-> 📅 Medical Schedule Reminder  
-> 📊 Health Records (temperature, oxygen, blood pressure, weight)  
-> 📥 PDF Export  
-> ⚙️ Admin Dashboard  
-> 👥 Built with <strong>Team Thymelime</strong>
+>  Medical Schedule Reminder  
+>  Health Records (temperature, oxygen, blood pressure, weight)  
+>  PDF Export  
+>  Admin Dashboard  
+>  Built with <strong>Team Thymelime</strong>
 
-🖥️ GitHub: [HealthTrack Repository](https://github.com/Ryandra-TI01/Aplikasi-HealthTrack.git)
+GitHub: [HealthTrack Repository](https://github.com/Ryandra-TI01/Aplikasi-HealthTrack.git)
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ryandra-TI01&show_icons=true&theme=radical&count_private=true" height="150"/>
@@ -73,15 +73,15 @@ A capstone project built with **Laravel 12**, **Livewire**, and **Filament**, fo
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
-- ✉️ Email: [ryandra.athaya1705@gmail.com](mailto:ryandra.athaya1705@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/ryandra-athaya-saleh-234161293](https://www.linkedin.com/in/ryandra-athaya-saleh-234161293)  
-- 💻 GitHub: [github.com/Ryandra-TI01](https://github.com/Ryandra-TI01)
+- Email: [ryandra.athaya1705@gmail.com](mailto:ryandra.athaya1705@gmail.com)  
+- LinkedIn: [linkedin.com/in/ryandra-athaya-saleh-234161293](https://www.linkedin.com/in/ryandra-athaya-saleh-234161293)  
+- GitHub: [github.com/Ryandra-TI01](https://github.com/Ryandra-TI01)
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### GitHub Contribution Snake
 
 <div align="center">
   <picture>
