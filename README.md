@@ -1,5 +1,5 @@
 <h1 align="center">Hi there I'm Ryandra Athaya</h1>
-<h3 align="center">Laravel Developer | Fullstack Web & Mobile</h3>
+<h3 align="center">Web Developer | Fullstack Web & Mobile</h3>
 
 ---
 
@@ -22,6 +22,7 @@ Currently looking for internship opportunities to grow and contribute to real-wo
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)
 ![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?style=flat&logo=laravel)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![React JS](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white)
@@ -37,28 +38,19 @@ Currently looking for internship opportunities to grow and contribute to real-wo
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white)
 
 #### Tools
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?logo=supabase&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-382923?logo=dbeaver&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-1A1A1A?logo=n8n&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-0A97F5?logo=windows&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/-Office-EB3C00?logo=microsoft-office&logoColor=white)
-
----
-
-### Highlighted Project
-
-#### **HealthTrack – Chronic Health Monitoring App**
-A capstone project built with **Laravel 12**, **Livewire**, and **Filament**, focused on long-term health monitoring.
-
->  Medical Schedule Reminder  
->  Health Records (temperature, oxygen, blood pressure, weight)  
->  PDF Export  
->  Admin Dashboard  
->  Built with <strong>Team Thymelime</strong>
-
-GitHub: [HealthTrack Repository](https://github.com/Ryandra-TI01/Aplikasi-HealthTrack.git)
 
 ---
 
